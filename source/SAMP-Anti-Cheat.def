@@ -1,0 +1,16 @@
+EXPORTS
+	Supports
+	Load
+	Unload
+	AmxLoad
+	AmxUnload
+	ProcessTick
+	OnGameModeExit
+	OnPlayerConnect
+	OnPlayerDisconnect
+	OnPlayerUpdate
+	OnPlayerSpawn
+	OnPlayerRequestClass
+	OnPlayerWeaponShot
+	OnVehicleRespray
+	OnPlayerEnterVehicle
